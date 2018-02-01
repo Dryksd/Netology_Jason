@@ -43,7 +43,7 @@ def nok_4():
 
 
 
-print(nok_1())
+
 
 
 
